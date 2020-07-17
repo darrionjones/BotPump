@@ -1,0 +1,63 @@
+table {
+    width: 100%;
+}
+
+table th, table td {
+    position: relative;
+}
+
+table th input, table td input {
+    position: absolute;
+    display: block;
+    top:0;
+    left:0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    border: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+    background-color: #bdffff;
+}
+
+.row-orange {
+    background-color: #ffcb8e;
+}
+.row-sky {
+    background-color: #bdffff;
+}
+.row-yellow {
+    background-color: #fdff89;
+}
+.row-grey {
+    background-color: #fdff89;
+}
+.row-fire {
+    background-color: #ff8acc;
+}
+
+
+.bg-sky {
+    background-color: #bdffff;
+}
+
+.bg-orange {
+    background-color: #ffcb8e;
+}
+.bg-sky {
+    background-color: #bdffff;
+}
+.bg-yellow {
+    background-color: #fdff89;
+}
+.bg-grey {
+    background-color: #fdff89;
+}
+.bg-fire {
+    background-color: #ff8acc;
+}
+
+.content-stress {
+
+}
